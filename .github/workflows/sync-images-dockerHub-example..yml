@@ -27,7 +27,7 @@ jobs:
       uses: docker/login-action@v2.2.0
       with:
         username: 861796875@qq.com
-        password: 
+        password: ab123456
         logout: false
         
     - name: Use Skopeo Tools Sync Image to Docker Hub
